@@ -1,3 +1,11 @@
+This is a clone of LinkedIn. The app is built with React, Redux, Styled Components and Google Firebase. Users can log in and log out of our app. Users can even post using videos and images on our app. All the data of the particular user are being stored in the Firestore database and shown realtime to the user. Here is the live link of the app which u can definitely have a look at:
+https://linkedin-clone-f2f7b.web.app/
+Some of the screenshots of the app are being attached below:
+![image](https://user-images.githubusercontent.com/83940432/139918069-e3db0750-dc36-40d3-9a78-e1f652b10965.png)
+![image](https://user-images.githubusercontent.com/83940432/139918149-c89f5766-e7e0-4237-abfc-630ecd310bef.png)
+![image](https://user-images.githubusercontent.com/83940432/139918215-da2eed3d-ffd9-4c99-8f97-377a8137502f.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
